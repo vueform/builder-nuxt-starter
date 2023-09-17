@@ -1,63 +1,63 @@
-# Nuxt 3 Minimal Starter
+<br>
+<a href="https://builder.vueform.com?ref=builder-nuxt-starter" target="_blank">
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+<img src="./assets/images/logo.svg" width="228" alt="Vueform" title="Vueform" />
 
-## Setup
+</a>
 
-Make sure to install the dependencies:
+# Vueform Builder + Nuxt + Tailwind CSS
 
-```bash
-# npm
-npm install
+*Last tested with Nuxt 3.7.3.*
 
-# pnpm
-pnpm install
+## Installation
 
-# yarn
-yarn install
-```
+1. Clone this repo with:<br>`git clone https://github.com/vueform/builder-nuxt-starter vueform-builder-nuxt-starter`
+2. Create a **Builder** project at [https://app.vueform.com](https://app.vueform.com?ref=builder-nuxt-starter)
+3. Replace `YOUR_API_KEY` in `vueform.config.js` with the **Public Key** you created
 
-## Development Server
+### npm
 
-Start the development server on `http://localhost:3000`:
+4. Run `npm install` to install dependencies
+5. Run `npm run dev` to start the server
 
-```bash
-# npm
-npm run dev
+### yarn
 
-# pnpm
-pnpm run dev
+4. Run `yarn install` to install dependencies
+5. Run `yarn run dev` to start the server
 
-# yarn
-yarn dev
-```
+### pnpm
 
-## Production
+4. Run `pnpm install` to install dependencies
+5. Run `pnpm run dev` to start the server
+<br>
 
-Build the application for production:
+6. Go to `http://localhost:3000` and you should see Vueform UI Kit.
 
-```bash
-# npm
-npm run build
+---
 
-# pnpm
-pnpm run build
+## About Vueform
 
-# yarn
-yarn build
-```
+<a href="https://builder.vueform.com/demo?ref=builder-nuxt-starter">
+  <img align="center" src="https://github.com/vueform/multiselect/raw/main/assets/vueform-banner-new.png" alt="Vueform" title="Vueform">
+</a>
 
-Locally preview production build:
+<br>
+<br>
 
-```bash
-# npm
-npm run preview
+Vueform is comprehensive **form development framework** for Vue.js. It supercharges and standardizes the entire form building process and takes care of everything from rendering to validation and processing. With our latest tool, the **Drag and Drop Form Builder**, you can allow your developers & non-tech workforce to build the most complex forms without coding.
 
-# pnpm
-pnpm run preview
+Feature highlights:
+- integrate Vueform **Drag and Drop Form Builder** into **any application**
+- save forms in **database** as a JSON
+- use your **own form elements** with **custom configuration** options
+- a complete theming and templating system with **Tailwind support**
+- 25+ form elements with **multi-file uploads**, date pickers and rich text editor
+- element **nesting** and **repeating**
+- **50+ validators** with async, dependent and custom rules
+- **conditional logic** on element & form level
+- breaking forms into **steps** with **form wizard**
+- **translating** form content and global i18n support.
 
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Learn more:
+- Builder: [https://builder.vueform.com](https://builder.vueform.com?ref=builder-nuxt-starter)
+- Framework: [https://vueform.com](https://vueform.com?ref=builder-nuxt-starter)

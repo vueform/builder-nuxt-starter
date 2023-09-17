@@ -1,5 +1,7 @@
 <template>
-  <div>
-    <NuxtWelcome />
+  <div class="h-screen">
+    <ClientOnly>
+      <VueformBuilder />
+    </ClientOnly>
   </div>
 </template>
