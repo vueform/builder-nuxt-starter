@@ -5,7 +5,7 @@
 
 </a>
 
-# Vueform Builder + Nuxt + Tailwind CSS
+# Vueform Builder + Nuxt + Tailwind
 
 *Last tested with Nuxt 3.7.3.*
 
@@ -31,7 +31,7 @@
 5. Run `pnpm run dev` to start the server
 <br>
 
-6. Go to `http://localhost:3000` and you should see Vueform UI Kit.
+6. Go to `http://localhost:3000` and you should see Vueform Builder.
 
 ---
 
