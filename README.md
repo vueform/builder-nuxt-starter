@@ -7,7 +7,7 @@
 
 # Vueform Builder + Nuxt + Tailwind
 
-*Last tested with Nuxt 3.7.3.*
+*Last tested with Nuxt 3.11.1.*
 
 ## Installation
 
