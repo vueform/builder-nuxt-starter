@@ -5,9 +5,9 @@
 
 </a>
 
-# Vueform Builder + Nuxt + Tailwind
+# DEPRECATED: Vueform Builder + Nuxt + Tailwind
 
-*Last tested with Nuxt 3.11.1.*
+> Please use `npm create vueform@latest -- --b` or [alterantives](https://builder.vueform.com/docs/installation#installation-1) instead.
 
 ## Installation
 
